@@ -1,5 +1,7 @@
-# Coming Soon, Template
-A simple coming soon page for better pre-launch conversions.
+# CSB
+A simple coming soon page for better pre-launch conversions for Bublr!
+
+Built using [NewUI] -
 
 - Vanilla HTML, CSS, and Vite
 - Light & dark themes
@@ -8,4 +10,4 @@ A simple coming soon page for better pre-launch conversions.
 
 ### Guides
 - [Getting started guide](https://new-ui.com/docs/templates/coming-soon)
-- [Live preview](https://coming-soon-bem.pages.dev/)
+- [Live preview](https://csb-six.vercel.app)
